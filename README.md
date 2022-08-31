@@ -1,9 +1,9 @@
 # DS-Assignment
-Name: Naveen Kumar M
+Name: Maraneni Akhil
 
 
-USN: 1CR19IS094
+USN: 1CR19IS084
 
 
-class:506
+class:505
 
