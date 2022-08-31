@@ -1,9 +1,9 @@
 # DS-Assignment
-Name: Maraneni Akhil
+Name: PALEM RAKESH REDDY
 
 
-USN: 1CR19IS084
+USN: 1CR19CS115
 
 
-class:505
+class:504
 
